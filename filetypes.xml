@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="exercise1_mengchen" type="HTML" />
+      <mapping pattern="app" type="JavaScript" />
+    </extensionMap>
+  </component>
+</application>
